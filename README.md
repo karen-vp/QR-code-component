@@ -18,24 +18,29 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-![](/src/assets/img/qr-component-preview.png)
-
 ### Screenshot
 
+![](/src/assets/img/qr-component-preview.png)
 
 ### Links
 
+- Live Site URL: [https://qr-code-component-karen-vp.netlify.app/] (https://qr-code-component-karen-vp.netlify.app/)
 
 ## My process
 
 ### Built with
 
-### What I learned
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [Vite] (https://vitejs.dev/) - Vite Building Framework
+
 
 ### Continued development
 
-### Useful resources
-
+I want to focused more on ways of importing images in react in future projects, or where to store this images to be used in react projects (i.e cdn, database, etc...)
 
 ## Author
 
@@ -44,3 +49,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Acknowledgments
 
+I just want to thank Frontend Mentor for creating a way to help students to build a portfolio and practice their skills.
